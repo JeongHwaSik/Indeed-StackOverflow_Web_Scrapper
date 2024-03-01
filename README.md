@@ -1,3 +1,11 @@
-# Indeed-StackOverflow_web_scrapper
+## Indeed-StackOverflow_web_scrapper
 
-making web scrapper using python
+This project is~
+
+## stackoverflow.py
+
+This Python file has some functions to extract data in StackOverFlow website.
+
+## indeed.py
+
+This Python file has some functions to extract data in Indeed website.
